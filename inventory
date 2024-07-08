@@ -6,3 +6,6 @@ backend.vijayganisetti.online
 
 [frontend]
 vijayganisetti.online
+
+[all:vars]
+ansible_password=DevOps321
