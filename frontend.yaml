@@ -1,5 +1,7 @@
-- name: configuaring the frontend
-  hosts: frontend
+- name: configuaring the backend using roles
+  hosts: backend
   become: yes
   roles:
   - frontend
+  
+
